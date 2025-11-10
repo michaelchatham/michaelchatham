@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="400">
+  <!-- Background -->
+  <rect width="1000" height="400" fill="#0d1117" rx="10"/>
+
+  <style>
+    .label { fill: #ff9800; font-family: 'Courier New', monospace; font-size: 13px; }
+    .value { fill: #58a6ff; font-family: 'Courier New', monospace; font-size: 13px; text-anchor: end; }
+    .dots { fill: #6e7681; font-family: 'Courier New', monospace; font-size: 13px; }
+    .header { fill: #c9d1d9; font-family: 'Courier New', monospace; font-size: 14px; font-weight: bold; }
+    .separator { stroke: #30363d; stroke-width: 1; }
+  </style>
+
+  <!-- Left side - ASCII Art Portrait -->
+  <image href="https://raw.githubusercontent.com/michaelchatham/michaelchatham/main/ascii-art.png" x="20" y="20" width="360" height="360"/>
+
+  <!-- Vertical separator line -->
+  <line x1="410" y1="20" x2="410" y2="380" class="separator"/>
+
+  <!-- Right side - Terminal Info -->
+  <g transform="translate(430, 0)">
+    <!-- Header -->
+    <text x="20" y="40" class="header">michaelchatham</text>
+    <line x1="20" y1="50" x2="550" y2="50" class="separator"/>
+
+    <!-- OS -->
+    <text x="20" y="70" class="label">OS:</text>
+    <text x="60" y="70" class="dots">...............................................</text>
+    <text x="520" y="70" class="value">Windows 11</text>
+
+    <!-- Uptime -->
+    <text x="20" y="88" class="label">Uptime:</text>
+    <text x="94" y="88" class="dots">....................................</text>
+    <text x="520" y="88" class="value">27 Years 0 Months</text>
+
+    <!-- Host -->
+    <text x="20" y="106" class="label">Host:</text>
+    <text x="76" y="106" class="dots">........................................</text>
+    <text x="520" y="106" class="value">Odinkor Pty Ltd</text>
+
+    <!-- Kernel -->
+    <text x="20" y="124" class="label">Kernel:</text>
+    <text x="94" y="124" class="dots">....................................</text>
+    <text x="520" y="124" class="value">Software Engineer</text>
+
+    <!-- IDE -->
+    <text x="20" y="142" class="label">IDE:</text>
+    <text x="68" y="142" class="dots">........................................</text>
+    <text x="520" y="142" class="value">VS Code, IntelliJ</text>
+
+    <!-- Section separator -->
+    <line x1="20" y1="157" x2="550" y2="157" class="separator"/>
+
+    <!-- Languages.Programming -->
+    <text x="20" y="177" class="label">Languages.Programming:</text>
+    <text x="206" y="177" class="dots">......</text>
+    <text x="520" y="177" class="value">Python, Java, C++, C#, TypeScript</text>
+
+    <!-- Languages.Computer -->
+    <text x="20" y="200" class="label">Languages.Computer:</text>
+    <text x="190" y="200" class="dots">.........................</text>
+    <text x="520" y="200" class="value">HTML, CSS, JSON</text>
+
+    <!-- Languages.Real -->
+    <text x="20" y="218" class="label">Languages.Real:</text>
+    <text x="158" y="218" class="dots">......................................</text>
+    <text x="520" y="218" class="value">English</text>
+
+    <!-- Section separator -->
+    <line x1="20" y1="233" x2="550" y2="233" class="separator"/>
+
+    <!-- Hobbies.Software -->
+    <text x="20" y="253" class="label">Hobbies.Software:</text>
+    <text x="166" y="253" class="dots">......................</text>
+    <text x="520" y="253" class="value">Game Dev, Game Modding</text>
+
+    <!-- Hobbies.Real -->
+    <text x="20" y="276" class="label">Hobbies.Real:</text>
+    <text x="134" y="276" class="dots">....................................</text>
+    <text x="520" y="276" class="value">Cooking, Gym</text>
+
+    <!-- Section separator -->
+    <line x1="20" y1="291" x2="550" y2="291" class="separator"/>
+
+    <!-- Contact Header -->
+    <text x="20" y="311" class="header">Contact</text>
+    <line x1="20" y1="321" x2="550" y2="321" class="separator"/>
+
+    <!-- LinkedIn -->
+    <text x="20" y="341" class="label">LinkedIn:</text>
+    <text x="102" y="341" class="dots">..................................</text>
+    <text x="520" y="341" class="value">/in/michaelchatham</text>
+  </g>
+</svg>
