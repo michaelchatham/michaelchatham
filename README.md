@@ -9,11 +9,16 @@ Computer Science graduate from RMIT University with 4 years of programming exper
 <div align="center">
 
 ### Languages
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,cpp,java,cs,html,css&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,py,cpp,java,cs,html,css&theme=light">
-  <img alt="Languages" src="https://skillicons.dev/icons?i=ts,js,py,cpp,java,cs,html,css">
-</picture>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+</p>
 
 ### Web Development
 
@@ -22,11 +27,11 @@ Computer Science graduate from RMIT University with 4 years of programming exper
 <td align="center" width="50%">
 <b>Frontend</b>
 <br/><br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=light">
-  <img alt="Frontend" src="https://skillicons.dev/icons?i=nextjs,react,tailwind">
-</picture>
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+</p>
 </td>
 <td align="center" width="1%">
 <!-- Separator -->
@@ -34,47 +39,45 @@ Computer Science graduate from RMIT University with 4 years of programming exper
 <td align="center" width="50%">
 <b>Backend</b>
 <br/><br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,spring&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,spring&theme=light">
-  <img alt="Backend" src="https://skillicons.dev/icons?i=nodejs,spring">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/fastify/FFFFFF">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/fastify/000000">
-  <img src="https://cdn.simpleicons.org/fastify/000000" alt="Fastify" width="48" height="48">
-</picture>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/fastify/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/fastify/000000">
+    <img src="https://cdn.simpleicons.org/fastify/000000" alt="Fastify" width="48" height="48">
+  </picture>
+</p>
 </td>
 </tr>
 </table>
 
 ### Databases & Backend Services
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,supabase&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,supabase&theme=light">
-  <img alt="Databases" src="https://skillicons.dev/icons?i=postgres,supabase">
-</picture>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" />
+</p>
 
 ### Cloud & DevOps
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,docker,git&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,docker,git&theme=light">
-  <img alt="Cloud & DevOps" src="https://skillicons.dev/icons?i=aws,docker,git">
-</picture>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+</p>
 
 ### AI & APIs
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/openai/FFFFFF">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/openai/000000">
-  <img src="https://cdn.simpleicons.org/openai/000000" alt="OpenAI" width="48" height="48">
-</picture>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/openai/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/openai/000000">
+    <img src="https://cdn.simpleicons.org/openai/000000" alt="OpenAI" width="48" height="48">
+  </picture>
+</p>
 
 ### Game Development & AR/VR
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=unity&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=unity&theme=light">
-  <img alt="Game Dev & AR/VR" src="https://skillicons.dev/icons?i=unity">
-</picture>
+<p>
+  <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />
+</p>
 
 </div>
 
