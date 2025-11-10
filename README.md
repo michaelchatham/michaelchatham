@@ -24,21 +24,26 @@ Computer Science graduate from RMIT University with 4 years of programming exper
 
 <table border="0">
 <tr>
-<td align="center" width="50%">
-<b>Frontend</b>
-<br/><br/>
+<td align="center" valign="top" width="49%">
+
+**Frontend**
+
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" />
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
 </p>
+
 </td>
-<td align="center" width="1%">
-<!-- Separator -->
+<td align="center" valign="middle" width="2%">
+
+|<br/>|<br/>|<br/>|<br/>|
+
 </td>
-<td align="center" width="50%">
-<b>Backend</b>
-<br/><br/>
+<td align="center" valign="top" width="49%">
+
+**Backend**
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" />
@@ -48,6 +53,7 @@ Computer Science graduate from RMIT University with 4 years of programming exper
     <img src="https://cdn.simpleicons.org/fastify/000000" alt="Fastify" width="48" height="48">
   </picture>
 </p>
+
 </td>
 </tr>
 </table>
