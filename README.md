@@ -8,8 +8,6 @@
   <img src="banner.svg" alt="Michael Chatham - Developer Profile" width="100%">
 </div>
 
-<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-
 <div align="center">
 
 ## About Me
@@ -95,11 +93,7 @@ Currently focused on <strong>Vivley</strong>, an AI-powered travel platform that
 
 </div>
 
-<div align="center">
-
 ## Awards & Achievements
-
-</div>
 
 <table>
 <tr>
@@ -114,18 +108,14 @@ Led development of an innovative search and analysis tool designed specifically 
 </tr>
 </table>
 
-<div align="center">
-
 ## Featured Projects
-
-</div>
 
 <table>
 <tr>
 <td width="100%">
 
-### ✈️ Vivley AI Powered Travel Platform
-<sup>🚀 Currently Building</sup>
+### Vivley AI Powered Travel Platform
+<sup>Currently Building</sup>
 
 A travel booking platform that reimagines hotel search and booking through conversational AI. Built to address the pain points of traditional Online Travel Agencies (OTAs), Vivley enables users to search using natural language queries, refine their preferences through an intelligent chat interface, and complete bookings directly within the platform without external redirects. The system leverages OpenAI's API to understand complex travel requirements, filters through real-time hotel inventory, and provides personalized recommendations based on user preferences. Features include real-time availability checking, price comparison, dynamic filtering through conversation, and seamless booking confirmation.
 
@@ -139,8 +129,8 @@ A travel booking platform that reimagines hotel search and booking through conve
 <tr>
 <td width="100%">
 
-### 🎮 GameSight AR Application for RoboCup SPL
-<sup>✅ Completed</sup>
+### GameSight AR Application for RoboCup SPL
+<sup>Completed</sup>
 
 An immersive augmented reality spectator application built for Meta Quest 3 that transforms how audiences experience RoboCup Standard Platform League matches. The application overlays real-time match statistics, player positions, and game analytics directly onto the physical soccer field through the headset's passthrough view. Implemented advanced features including controller-based field calibration for precise alignment, passthrough depth mapping to ensure proper occlusion of virtual elements behind physical objects, and a computer vision system using Unity Sentis for automatic field boundary detection. The application processes live game data feeds and renders dynamic 3D visualizations that update in real-time as the match progresses, providing viewers with enhanced insight into robot positioning, ball tracking, and team strategies.
 
@@ -154,8 +144,8 @@ An immersive augmented reality spectator application built for Meta Quest 3 that
 <tr>
 <td width="100%">
 
-### 🐾 PetCare Vet Clinic Management System
-<sup>✅ Completed</sup>
+### PetCare Vet Clinic Management System
+<sup>Completed</sup>
 
 A full-stack web application designed to streamline veterinary clinic operations and appointment management. The system features a fully normalized relational database schema optimized for clinic workflows, including patient records, appointment scheduling, veterinarian availability, and treatment history. Implemented database version control using Flyway migrations to ensure consistent schema evolution across development and production environments. The application provides real-time availability tracking for veterinarians, prevents double-booking through transaction management, and includes features for patient check-in, medical record management, and appointment notifications. Built with a focus on data integrity, the system uses JDBC for direct database access with optimized query performance.
 
@@ -174,5 +164,3 @@ A full-stack web application designed to streamline veterinary clinic operations
 </p>
 
 💡 *"A programmer is heading out to the grocery store, so his wife tells him "get a gallon of milk, and if they have eggs, get a dozen." He returns with 13 gallons of milk."*
-
-</div>
