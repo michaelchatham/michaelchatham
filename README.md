@@ -10,31 +10,34 @@ Computer Science graduate from RMIT University with 4 years of programming exper
 
 ### Languages
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,cpp,java,cs,html,css&theme=dark&perline=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,py,cpp,java,cs,html,css&theme=light&perline=8">
-  <img alt="Languages" src="https://skillicons.dev/icons?i=ts,js,py,cpp,java,cs,html,css&perline=8">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,cpp,java,cs,html,css&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,py,cpp,java,cs,html,css&theme=light">
+  <img alt="Languages" src="https://skillicons.dev/icons?i=ts,js,py,cpp,java,cs,html,css">
 </picture>
 
 ### Web Development
 
-<table>
+<table border="0">
 <tr>
-<td align="center" width="50%" style="border-right: 2px solid #444;">
+<td align="center" width="50%">
 <b>Frontend</b>
 <br/><br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark&perline=3">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=light&perline=3">
-  <img alt="Frontend" src="https://skillicons.dev/icons?i=nextjs,react,tailwind&perline=3">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=light">
+  <img alt="Frontend" src="https://skillicons.dev/icons?i=nextjs,react,tailwind">
 </picture>
+</td>
+<td align="center" width="1%">
+<!-- Separator -->
 </td>
 <td align="center" width="50%">
 <b>Backend</b>
 <br/><br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,spring&theme=dark&perline=3">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,spring&theme=light&perline=3">
-  <img alt="Backend" src="https://skillicons.dev/icons?i=nodejs,spring&perline=3">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,spring&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,spring&theme=light">
+  <img alt="Backend" src="https://skillicons.dev/icons?i=nodejs,spring">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/fastify/FFFFFF">
@@ -47,16 +50,16 @@ Computer Science graduate from RMIT University with 4 years of programming exper
 
 ### Databases & Backend Services
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,supabase&theme=dark&perline=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,supabase&theme=light&perline=2">
-  <img alt="Databases" src="https://skillicons.dev/icons?i=postgres,supabase&perline=2">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,supabase&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,supabase&theme=light">
+  <img alt="Databases" src="https://skillicons.dev/icons?i=postgres,supabase">
 </picture>
 
 ### Cloud & DevOps
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,docker,git&theme=dark&perline=3">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,docker,git&theme=light&perline=3">
-  <img alt="Cloud & DevOps" src="https://skillicons.dev/icons?i=aws,docker,git&perline=3">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,docker,git&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,docker,git&theme=light">
+  <img alt="Cloud & DevOps" src="https://skillicons.dev/icons?i=aws,docker,git">
 </picture>
 
 ### AI & APIs
@@ -68,9 +71,9 @@ Computer Science graduate from RMIT University with 4 years of programming exper
 
 ### Game Development & AR/VR
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=unity&theme=dark&perline=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=unity&theme=light&perline=1">
-  <img alt="Game Dev & AR/VR" src="https://skillicons.dev/icons?i=unity&perline=1">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=unity&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=unity&theme=light">
+  <img alt="Game Dev & AR/VR" src="https://skillicons.dev/icons?i=unity">
 </picture>
 
 </div>
