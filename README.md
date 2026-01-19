@@ -77,15 +77,6 @@ Currently focused on <strong>Vivley</strong>, an AI-powered travel platform that
   <img src="https://skillicons.dev/icons?i=git" alt="Git" />
 </p>
 
-### AI & APIs
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/openai/FFFFFF">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/openai/000000">
-    <img src="https://cdn.simpleicons.org/openai/000000" alt="OpenAI" width="48" height="48">
-  </picture>
-</p>
-
 ### Game Development & AR/VR
 <p>
   <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />
