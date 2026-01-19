@@ -30,7 +30,7 @@
     <!-- Uptime -->
     <text x="20" y="88" class="label">Uptime:</text>
     <text x="94" y="88" class="dots">....................................</text>
-    <text x="520" y="88" class="value">27 Years 0 Months</text>
+    <text x="520" y="88" class="value">27 Years 1 Month</text>
 
     <!-- Host -->
     <text x="20" y="106" class="label">Host:</text>
